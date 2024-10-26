@@ -1,0 +1,4 @@
+User-Agent: *
+Disallow: /login
+
+Sitemap: https://oqeviuzi.github.io/sitemap_index.oqeviuzi
